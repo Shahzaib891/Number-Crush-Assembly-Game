@@ -424,8 +424,7 @@ Debug > Start Without Debugging
 ## Author
 
 **Shahzaib Safdar**  
-BS Computer Science | Air University, Islamabad 
-Assembly Language | MASM | Irvine32 | Visual Studio
+BS Computer Science | Air University, Islamabad | Assembly Language | MASM | Irvine32 | Visual Studio
 
 ## Repository Purpose
 
